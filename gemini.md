@@ -7,4 +7,5 @@ This file contains project-specific instructions for the Gemini agent. For globa
 - **Commands:** Use the `justfile` for all standard tasks like testing, linting, and running the application (e.g., `just test`).
 
 ## Project-Specific Guidelines
-- (Add project-specific guidelines here)
+- **Headless Operation:** Design and execute tasks to be runnable in headless mode. Ensure scripts are non-interactive and self-contained.
+- (Add other project-specific guidelines here)
